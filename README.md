@@ -1,5 +1,5 @@
 # random_quote_generator
-This is my random quote generator that I made for Free Code Camp. The random quote generator works by picking an random quote and its adjacent author and show the result on the screen within a <p> property. When the 'new quote' button is clicked it grabs a new quote and changes both the colour of the background of the sit as well as the background of the 'new quote button'. When the twitter button is pressed, the site takes the quote and author and puts it into a tweet with the hashtag 'quotes'.  
+This is my random quote generator that I made for Free Code Camp. The random quote generator works by picking an random quote and its adjacent author and show the result on the screen within a "<p>" property. When the 'new quote' button is clicked it grabs a new quote and changes both the colour of the background of the sit as well as the background of the 'new quote button'. When the twitter button is pressed, the site takes the quote and author and puts it into a tweet with the hashtag 'quotes'.  
 
 ## Current issues: 
 - It looks kind of funky on mobile 
