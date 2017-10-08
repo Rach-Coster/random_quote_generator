@@ -4,7 +4,7 @@ This is my random quote generator that I made for Free Code Camp. The random quo
 #Current issues: 
 - It looks kind of funky on mobile 
 - The buttons don't work on mobile
-- If the tweet is longer than 140 characters (including the author of the quote and the hashtag "quotes") it should include a ... to cut the quote off so that the tweet is exactly 140 characters. 
+- If the tweet is longer than 140 characters (including the author of the quote and the hashtag "quotes") it should include a "..." to cut the quote off so that the tweet is exactly 140 characters. 
 
 If you have any suggestions on how to improve this website, please feel free to comment and I'll try to get to it as soon as I can. 
 
